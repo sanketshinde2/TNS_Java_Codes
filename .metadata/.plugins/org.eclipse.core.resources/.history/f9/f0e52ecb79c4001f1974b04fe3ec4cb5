@@ -1,0 +1,13 @@
+package daythree.tns;
+
+public class encapsulationdemo {
+	OopsConceptDemo obj = new OopsConceptDemo();
+	
+	obj.setSerialNum(201);
+	obj.setName("sanket");
+	obj.setAge(30);
+	
+	System.out.println(obj);
+
+}
+}
