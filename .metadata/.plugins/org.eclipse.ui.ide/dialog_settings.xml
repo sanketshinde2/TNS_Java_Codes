@@ -5,6 +5,16 @@
 		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\Administrator\Downloads\Calculator-GUI-master\calculator"/>
+			<item value="C:\Users\Administrator\Downloads\Calculator-GUI-master"/>
+			<item value="C:\Users\Administrator\eclipse-workspace\DaySevenPolymorphism"/>
+			<item value="C:\Users\Administrator\eclipse-workspace\DayNine"/>
+			<item value="C:\Users\Administrator\eclipse-workspace\DayEight"/>
+			<item value="C:\Users\Administrator\eclipse-workspace\DaySeven"/>
+			<item value="C:\Users\Administrator\eclipse-workspace\DaySix"/>
+			<item value="C:\Users\Administrator\eclipse-workspace\Day6java"/>
+		</list>
 		<section name="SmartImportWizard.dialogBounds">
 			<item key="DIALOG_X_ORIGIN" value="502"/>
 			<item key="DIALOG_Y_ORIGIN" value="35"/>
